@@ -1,6 +1,6 @@
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF6E95&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+profile!;Hello%2C+my+name+is+Coelhinho!;I+love+programming!;Byee!)]([https://git.io/typing-svg])
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF6E950&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+profile!;Hello%2C+my+name+is+Coelhinho!;I+love+programming!;Bye!;Thank+you+for+visiting+my+profile!)](https://www.instagram.com/ybson.coelho?igsh=MXByZm13cDJheTN5Zw==)
 
 <hr>
 
