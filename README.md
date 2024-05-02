@@ -1,6 +1,6 @@
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF6E95&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+profile!;Hello%2C+my+name+is+Coelhinho!;I+love+programming!;Bye!)](https://www.instagram.com/ybson.coelho?igsh=MXByZm13cDJheTN5Zw==)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF6E95&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+profile!)](https://www.instagram.com/ybson.coelho?igsh=MXByZm13cDJheTN5Zw==)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Coelhinho10&show_icons=true&title_color=FF6E95&text_color=fff&icon_color=79DAFA&bg_color=181818" />
