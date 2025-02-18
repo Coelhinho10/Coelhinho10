@@ -1,3 +1,12 @@
+### ✨ Bem-vindo ao meu GitHub ✨
+
+🌙 Beleza melancólica, um toque de nostalgia e um universo de código.
+
+## 💻 Sobre mim:
+- 💖 Desenvolvedor apaixonado por tecnologia
+- 🎨 Criador de projetos com um toque estético e funcional
+- 🚀 Sempre explorando novas ideias e conceitos
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
