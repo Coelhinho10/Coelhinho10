@@ -67,6 +67,14 @@
 />
 <img 
     align="left" 
+    alt="NextJs" 
+    title="NextJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
