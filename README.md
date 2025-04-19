@@ -85,14 +85,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Coelhinho10&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Coelhinho10&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&bg_color=00000000" 
   />
-
+    
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coelhinho10&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coelhinho10&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=4&bg_color=00000000" 
   />
 
 </p>
