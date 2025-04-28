@@ -28,6 +28,8 @@
 <img alt="NextJs" title="NextJs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
 <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,csharp,html,css,react,nextjs,git,vscode)](https://skillicons.dev)
+
 </div>
 
 ---
