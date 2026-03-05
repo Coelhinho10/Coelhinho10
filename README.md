@@ -17,7 +17,7 @@ Always learning, always creating. 🚀
 <h1 align="center">🛠️ Tech Stack</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,vscode,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,flutter,react,nextjs,nodejs,git,vscode,mongodb" />
 </div>
 
 ---
