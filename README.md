@@ -27,6 +27,7 @@ Always learning, always creating. 🚀
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Ybson-Coelho&show_icons=true&theme=tokyonight&hide_border=true" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ybson-Coelho&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
