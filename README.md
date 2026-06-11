@@ -1,46 +1,83 @@
-<h1 align="center">✨ Welcome ✨</h1>
-
-<p align="center"><em>"Baby, I'm a dreamer coding under violet skies."</em></p>
-
----
-
-<h1 align="center">🧠 About Me</h1>
-
-<p align="center">
-I'm a <strong>Web Developer</strong> passionate about building digital experiences that connect design and purpose.<br />
-I love writing clean, efficient, and scalable code — with a focus on detail, usability, and performance.<br />
-Always learning, always creating. 🚀
-</p>
-
----
-
-<h1 align="center">🛠️ Tech Stack</h1>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,flutter,react,nextjs,nodejs,git,vscode,mongodb" />
-</div>
-
----
-
-<h1 align="center">⚡ GitHub Stats</h1>
-
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ybson-Coelho&show_icons=true&theme=tokyonight&hide_border=true" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ybson-Coelho&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" />
+# ✨ Hello, there 👋🏻
+
+### Web & Mobile Developer
+
+*Building modern experiences across web and mobile platforms.*
 
 </div>
 
 ---
 
-<h1 align="center">🔥 Streak & Activity</h1>
+## 🚀 About Me
+
+I'm a **Web & Mobile Developer** passionate about creating modern, responsive, and high-performance applications.
+
+From interactive web experiences to cross-platform mobile apps, I enjoy transforming ideas into products that deliver real value to users.
+
+- 🌐 Web Development
+- 📱 Mobile Development
+- ⚡ Performance & Scalability
+- 🎨 UI/UX Focused
+- 📚 Continuous Learning
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ybson-Coelho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,flutter,react,nextjs,nodejs,mongodb,git,github,vscode" />
 </div>
 
 ---
 
-<p align="center">
-  ⭐ Enjoyed one of my projects? Dropping a star means the world — it helps more than you think.
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ybson-Coelho&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ybson-Coelho&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ybson-Coelho&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🌌 Current Focus
+
+```txt
+🚀 Building modern web applications
+📱 Creating cross-platform mobile apps
+⚡ Improving performance & scalability
+📚 Learning and exploring new technologies
+💡 Building products that solve real problems
+```
+
+---
+
+## 🎯 Goals
+
+- Build impactful digital products
+- Master modern web technologies
+- Grow as a Full-Stack Developer
+- Contribute to open-source projects
+- Continuously improve my craft
+
+---
+
+<div align="center">
+
+### Thanks for visiting 👋🏻
+
+⭐ If you enjoy my work, consider leaving a star on a project.
+
+</div>
